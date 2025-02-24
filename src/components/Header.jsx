@@ -16,9 +16,6 @@ export default function Header() {
                 <p>
                     <Link to="second">Exp. sys: Backward Chaining</Link>
                 </p>
-                <p>
-                    <Link to="third">Machine Learning</Link>
-                </p>
             </nav>
         </header>
     )

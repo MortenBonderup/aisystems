@@ -9,7 +9,7 @@ import Home from "./views/Home";
 
 const router = createBrowserRouter([
   {
-    path: "/expertsystems/",
+    path: "/aisystems/",
     element: <Layout />,
     children: [
       {
